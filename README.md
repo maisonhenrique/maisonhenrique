@@ -1,9 +1,13 @@
 <h1 align="center">Oi 👋, Eu sou Maison</h1>
 <h3 align="center">Me aventurando nesse mundo de Dados!</h3>
 
-- 🌱 Estou aprendendo **Python, Power BI, SQL...**
+- 🔭 Eu sou Analisa de Produto Sênior **PTC Group**
+
+- 🌱 Atualmente estou aprendendo **Python, Power BI, SQL...**
 
 - 📫 E-mail **maisonhenrique@gmail.com**
+
+- 📄 Sou Engenheiro Mecânico com 7 anos de experência em desenvolvimento de produto no segmento de engenharia automobilística [https://www.linkedin.com/in/maison-henrique/](https://www.linkedin.com/in/maison-henrique/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
