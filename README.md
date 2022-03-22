@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I´m Maison Henrique</h1>
+<h1 align="center">Hi 👋, I'm Maison Henrique</h1>
 <h3 align="center">A Mechanical Engineer transitioning to Data Science. Every day I'm sure it was the best choice.🚀📊</h3>
 
 - 🔭 I'm currently studying about: **Python, Power BI, SQL ...**
