@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing **AI and Machine Learning at PUC-Minas**
 
-- 💡I'm interested in all things data: **AI, Machine Learning e Data Science.**
+- 💡I'm interested in all things data: **AI, Machine Learning and Data Science.**
 
 - 📫 E-mail: **maisonhenrique@gmail.com**
 
