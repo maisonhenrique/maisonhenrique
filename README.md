@@ -6,7 +6,7 @@
 
 - 📫 E-mail: **maisonhenrique@gmail.com**
 
-- 📄 I'm a Mechanical Engineer with eight years of experience in product development in the automotive engineering segment. [https://www.linkedin.com/in/maison-henrique](https://www.linkedin.com/in/maison-henrique)
+- 📄 I'm a Data Analyst specialized in Salesforce Marketing Cloud and Looker Studio, with experience in measuring campaigns and journeys through personalized KPIs. I have experience in Python and BigQuery.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +15,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -46,6 +48,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+###
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisonhenrique&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
